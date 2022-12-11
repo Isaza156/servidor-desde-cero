@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Isaza156/servidor-desde-cero#readme",
   "dependencies": {
     "dotenv": "^8.1.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^3.3.2"
   },
   "devDependencies": {
